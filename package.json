@@ -1,0 +1,10 @@
+{
+	"name": "MagicbgvGitMaintin",
+  	"version": "1.0.0",
+  	"description": "App to update git",
+  	"author": "Tiago Braccialli",
+  	"main": "hotdeploy.js",
+	"dependencies": {
+  		"express": "3.2.4"
+	}
+}
